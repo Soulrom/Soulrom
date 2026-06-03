@@ -62,14 +62,6 @@ Single interface for switching between models without changing client code.
 
 ---
 
-## GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Soulrom&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" height="130" />
-</div>
-
----
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/roman-mokrii) · [Telegram](https://t.me/romuchm) · [Email](mailto:mokriiromuch@gmail.com)
